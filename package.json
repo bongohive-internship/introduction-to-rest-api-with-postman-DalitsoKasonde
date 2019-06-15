@@ -1,0 +1,19 @@
+{
+  "name": "introduction-to-rest-api-with-postman-dalitsokasonde",
+  "version": "1.0.0",
+  "description": "Instead of mocking our created Node JS express  APIs using the browser, you will learn how to use postman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bongohive-internship/introduction-to-rest-api-with-postman-DalitsoKasonde.git"
+  },
+  "author": "Dalitso Kasonde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bongohive-internship/introduction-to-rest-api-with-postman-DalitsoKasonde/issues"
+  },
+  "homepage": "https://github.com/bongohive-internship/introduction-to-rest-api-with-postman-DalitsoKasonde#readme"
+}
